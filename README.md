@@ -1,2 +1,1 @@
-# test
-测试
+# 记录java基础练习的demo
