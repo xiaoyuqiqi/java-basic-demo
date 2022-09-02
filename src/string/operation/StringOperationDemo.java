@@ -18,6 +18,8 @@ public class StringOperationDemo {
         Integer count = getCount(str, "a");
         System.out.println("a 在 str 中出现次数:"+count);
 
+
+        
     }
 
     /**
